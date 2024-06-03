@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host": "127.0.0.1",
+    "username": "root",
+    "password": "rootroot",
+    "name": "go-microservice-fk"
+  },
+  "host": "localhost",
+  "port": "8080"
+}

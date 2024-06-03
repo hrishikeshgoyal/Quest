@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="024cd135-8e70-4496-9893-6b8b2c9680dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../dailycodebuffer-restapi/dailycodebuffer-restapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/command.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/design-patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/fan-in.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/fan-out.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/functional-options.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/my-state-machine-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/singleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/state.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design-patterns/strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-microservice-fk/go-microservice-fk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programs/go-programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/consumer/consumer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/producer/producer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-service.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R9eZwis7S7LkTMEqgBvGm26hDR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="go build github.com/hrishikeshgoyal/quest/web-service" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="web-service" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/hrishikeshgoyal/quest/web-service" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/hrishikeshgoyal/quest/web-service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="024cd135-8e70-4496-9893-6b8b2c9680dd" name="Changes" comment="" />
+      <created>1686666786841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686666786841</updated>
+      <workItem from="1686666789331" duration="1797000" />
+      <workItem from="1715868633416" duration="1270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
